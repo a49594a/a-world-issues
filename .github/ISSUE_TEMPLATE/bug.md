@@ -1,9 +1,9 @@
 ---
 name: 报告bug
-about: 报告一个bug（注意安全性问题不要通过github反馈）
+about: 报告bug（注意安全性问题不要通过github反馈）
 title: '[bug]'
 labels: 'bug'
-assignees: ''
+assignees: 'a49594a'
 
 ---
 
