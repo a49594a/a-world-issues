@@ -1,9 +1,9 @@
 ---
-name: 提交建议
+name: 建议
 about: 提交你的建议
 title: '[建议]'
-labels: ''
-assignees: ''
+labels: 'Enchantment'
+assignees: 'a49594a'
 
 ---
 
