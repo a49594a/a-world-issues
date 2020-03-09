@@ -2,7 +2,7 @@
 name: 提出建议
 about: 提交你的建议
 title: '[建议]'
-labels: 'enhancements'
+labels: 'enhancement'
 assignees: 'a49594a'
 
 ---
