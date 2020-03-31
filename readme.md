@@ -4,7 +4,7 @@
 
 - 关于[A营](https://www.aerfaying.com)的建议、非安全性bug提交
 
-- 后续会开放一些代码的提交
+- worker代码的提交
 
 # 要求
 
