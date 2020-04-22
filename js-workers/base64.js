@@ -248,4 +248,4 @@ function main(args) {
     }
 }
 
-onmessage = evt => postMessage(main(evt.data))
+onmessage = evt => postMessage(main(evt.data));
