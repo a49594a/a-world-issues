@@ -1,3 +1,4 @@
+> # 注意：目前a营启用了[议政厅](https://www.aerfaying.com/Studios/24291)论坛，以后bug和建议都在此论坛进行，本repo只用作旧issues的存档
 # a world issues
 
 # 用途
